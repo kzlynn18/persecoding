@@ -1,0 +1,8 @@
+number1 = int(input())
+number2 = int(input())
+number3 = int(input())
+number4 = int(input())
+number5 = int(input())
+number6 = int(input())
+print('$', end='')
+print(number1 + number2 + number3 + number4 + number5 - number6)
